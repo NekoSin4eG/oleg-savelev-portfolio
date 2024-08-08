@@ -10,6 +10,7 @@ export default function Home() {
         <Navbar />
         <div className="container mx-auto mt-[70px] md:mt-24 px-12 py-4">
           <HeroSection />
+          <h2 className="mt-5 md:mt-2 text-center text-xl text-gray-400">The site is under development</h2>
         </div>
       </main>
     // </TracingBeam>
